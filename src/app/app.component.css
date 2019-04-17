@@ -1,0 +1,5 @@
+button {
+  display: block;
+  margin: auto;
+  top: calc(50vh - 16px);
+}
